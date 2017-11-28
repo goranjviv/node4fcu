@@ -1,2 +1,6 @@
 # node4fcu
-*Nodemcu 4 channel Fan Control over USB*
+
+NodeMCU for Fan Control over USB
+
+see wiki for details:
+https://github.com/gogeccc/node4fcu/wiki
